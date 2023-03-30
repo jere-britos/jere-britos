@@ -21,4 +21,4 @@ Para más información mi <a href="https://www.linkedin.com/in/jerem%C3%ADas-jos
 
 
 
-Muchas gracias por pasarte! Puedes ir a revisar mis **repositorios** =)=).
+Muchas gracias por pasarte! Puedes ir a revisar mis <a href="https://github.com/jere-britos?tab=repositories" target="_blank" rel="noopener">**repositorios**</a> =)=).
