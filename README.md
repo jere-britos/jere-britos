@@ -6,7 +6,7 @@
 
 </div>
 
-<img width="400" height="auto" align="right" src="https://media.licdn.com/dms/image/D5603AQGE5vsNro2CZw/profile-displayphoto-shrink_800_800/0/1674579547141?e=1685577600&v=beta&t=UFCssKruppIbYuVWUHDADKEVqtX5Ct4DYQADz08WjWs">
+<img width="250" height="auto" align="right" src="https://media.licdn.com/dms/image/D5603AQGE5vsNro2CZw/profile-displayphoto-shrink_800_800/0/1674579547141?e=1685577600&v=beta&t=UFCssKruppIbYuVWUHDADKEVqtX5Ct4DYQADz08WjWs">
 
 Estudiante egresado, programador web y analista en sistemas ubicado en Argentina.
 
