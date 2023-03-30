@@ -18,7 +18,7 @@ Para más información visita mi sitio <a href=# target="_blank" rel="noopener">
 
 
 
-Si te gusta mi contenido puedes invitarme un taco 🌮 por <a href="https://jonmircha.com/taco" target="_blank" rel="noopener"> _**Paypal**_</a>.
+Muchas gracias por pasarte! Puedes ir a revisar mis **repositorios** =)=).
 
 <a href="https://www.youtube.com/jonmircha?sub_confirmation=1" target="_blank" rel="noopener">
   <img align="center" src="https://jonmircha.com/img/youtube-banner.jpg">
