@@ -1,24 +1,22 @@
-**Hola, soy tu amigo y docente digital...**
+**Hola, soy Jeremias Britos**
 
 <div align="right">
 
-# Jonathan MirCha
+# Jeremias Britos
 
 </div>
 
 <img width="400" height="auto" align="right" src="https://jonmircha.com/img/apoyo.jpg">
 
-Profesor, programador web y creador de contenidos ubicado en México.
+Estudiante egresado, programador web y analista en sistemas ubicado en Argentina.
 
-**Como profesor** tengo amplia experiencia en universidades, posgrados, sector privado y educación en línea.
+**Como programador _web_** he desarrollado proyectos en diferentes lenguajes, frameworks y tengo buen manejos de bases de datos.
 
-**Como programador _web_** he trabajado para empresas como _MVS_, _Voit_, _Condé Nast_, _Aeroméxico_, _SIEMENS_, _Costco_, _Herman Miller_, etc.
+**Como Analista en Sistemas** desarrolle un sistema para una empresa de transportes "Transportes Peralta", que fue desarrollada para presentacion de tesis.
 
-**Como creador de contenidos** elaboro material digital de valor para mi audiencia: videos, cursos, tutoriales, artículos, notas, podcast, vlogs, reflexiones, etc.
+Para más información visita mi sitio <a href=# target="_blank" rel="noopener">Acá va ir mi curriculum en netlify</a>.
 
-Para más información visita mi sitio <a href="https://jonmircha.com" target="_blank" rel="noopener">jonmircha.com</a>.
 
-Tengo un canal en <a href="https://www.youtube.com/jonmircha?sub_confirmation=1" target="_blank" rel="noopener"> _**YouTube**_</a> donde enseño sobre el maravilloso mundo de la _web_.
 
 Si te gusta mi contenido puedes invitarme un taco 🌮 por <a href="https://jonmircha.com/taco" target="_blank" rel="noopener"> _**Paypal**_</a>.
 
