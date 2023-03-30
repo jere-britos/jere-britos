@@ -1,16 +1,27 @@
-### Hi there 👋
+**Hola, soy tu amigo y docente digital...**
 
-<!--
-**jere-britos/jere-britos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="right">
 
-Here are some ideas to get you started:
+# Jonathan MirCha
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+<img width="400" height="auto" align="right" src="https://jonmircha.com/img/apoyo.jpg">
+
+Profesor, programador web y creador de contenidos ubicado en México.
+
+**Como profesor** tengo amplia experiencia en universidades, posgrados, sector privado y educación en línea.
+
+**Como programador _web_** he trabajado para empresas como _MVS_, _Voit_, _Condé Nast_, _Aeroméxico_, _SIEMENS_, _Costco_, _Herman Miller_, etc.
+
+**Como creador de contenidos** elaboro material digital de valor para mi audiencia: videos, cursos, tutoriales, artículos, notas, podcast, vlogs, reflexiones, etc.
+
+Para más información visita mi sitio <a href="https://jonmircha.com" target="_blank" rel="noopener">jonmircha.com</a>.
+
+Tengo un canal en <a href="https://www.youtube.com/jonmircha?sub_confirmation=1" target="_blank" rel="noopener"> _**YouTube**_</a> donde enseño sobre el maravilloso mundo de la _web_.
+
+Si te gusta mi contenido puedes invitarme un taco 🌮 por <a href="https://jonmircha.com/taco" target="_blank" rel="noopener"> _**Paypal**_</a>.
+
+<a href="https://www.youtube.com/jonmircha?sub_confirmation=1" target="_blank" rel="noopener">
+  <img align="center" src="https://jonmircha.com/img/youtube-banner.jpg">
+</a>
