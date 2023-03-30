@@ -14,7 +14,7 @@ Estudiante egresado, programador web y analista en sistemas ubicado en Argentina
 
 **Como Analista en Sistemas** desarrolle un sistema para una empresa de transportes "Transportes Peralta", que fue desarrollada para presentacion de tesis.
 
-Para más información visita mi sitio <a href=# target="_blank" rel="noopener">Acá va ir mi curriculum en netlify</a>.
+Para más información mi <a href="https://www.linkedin.com/in/jerem%C3%ADas-josu%C3%A9-britos-56632b1a1/" target="_blank" rel="noopener">Linkedin</a>.
 
 
 
